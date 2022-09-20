@@ -9,7 +9,12 @@
 
 - 📫 You can reach me on **israelbssy@gmail.com** or **israelbassey@hotmail.com**
 
-- ⚡ Truth is **I have gone full circle with tech, and I'm here again**
+- 👨‍💻 You can learn a lot about me on [My Portfolio](basseyisrael.github.io)
+
+- 📝 I regularly write articles on [Blog](medium.com)
+
+- 📄 Know about my experiences [Resume](medium.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
