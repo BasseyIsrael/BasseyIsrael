@@ -1,4 +1,4 @@
-![MasterHead](https://tarikatechnologies.com/wp-content/uploads/2020/07/Header-4.jpg)
+![MasterHead](https:/tarikatechnologies.com/wp-content/uploads/2020/07/Header-4.jpg)
 <img src="Israel_Banner_.png"/>
 <h1 align="center">Hi 👋, I'm Israel Bassey</h1>
 <h3 align="center">Building Data-Driven Business Solutions for the Future of Work...</h3>
