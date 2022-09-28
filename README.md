@@ -10,7 +10,7 @@ Welcome to my Github Page. I am a data analyst with a degree in Petroleum Engine
 - 🔭 I’m currently working on **Automated Data Streaming from Shared Excel Workbook to Power BI**
 - 👯 I’m looking to collaborate on **Data-Driven Projects**
 - 📫 You can reach me on **israelbssy@gmail.com** or **israelbassey@hotmail.com**
-- 👨‍💻 You can learn a lot about me on [My Website](basseyisrael.github.io) or [My Resume]()
+- 👨‍💻 You can learn a lot about me on [My Website](https://basseyisrael.github.io) or [My Resume]()
 
 
 
@@ -18,19 +18,19 @@ The projects in this Github profile are segmented into the following sections:
 
 | **Predictive Analytics Projects (Regression & Opitimization)** | **Time Series Analysis** |
 |------         | -------       |
-| - [Stock Assets Prediction]()| - [Stock Assets Prediction]()
-| - [Gas Hydrates Risk Management System]() | - [Stocks Portfolio Optimization]()
-| - [Choke Performance Analysis]() | - [Production Prediction & Forecasting]()
-|- [Dynamic Statistical Modelling of Production Systems]() |
-| - [Stocks Portfolio Optimization]() |
+| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction)| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction)
+| - [Gas Hydrates Risk Management System](https://github.com/BasseyIsrael/Gas-Hydrates-Risk-Management-System) | - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization)
+| - [Choke Performance Analysis](#) | - [Production Prediction & Forecasting](#)
+|- [Dynamic Statistical Modelling of Production Systems](https://github.com/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems) |
+| - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization) |
 
 
 
 | **Involving Power BI Dashboards** | **Process Optimization Projects** | **Productivity Scripts** |
 |---    |---    |---    |
-|   - [Inventory Management System]() | - [Inventory Management System]() | - [SQL-Execution-Scripts]() 
-|- [Service Requests Dashboard]() |  - [Employee Credentials Management System]() | - [Excel-VBA-Scripts]() 
-|- [Supplier Quality Analysis]() 
+|   - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [SQL-Execution-Scripts](https://github.com/BasseyIsrael/SQL-Execution-Scripts) 
+|- [Service Requests Dashboard](https://github.com/BasseyIsrael/Service-Requests-Dashboard) |  - [Employee Credentials Management System](https://github.com/BasseyIsrael/Employee-Credential-Management-System) | - [Excel-VBA-Scripts](https://github.com/BasseyIsrael/Excel-VBA-Scripts) 
+|- [Supplier Quality Analysis](https://github.com/BasseyIsrael/Supplier-Quality-Analysis) 
 
 
 
