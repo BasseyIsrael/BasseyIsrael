@@ -24,25 +24,14 @@ The projects in this Github profile are segmented into the following sections:
 |- [Dynamic Statistical Modelling of Production Systems]() |
 | - [Stocks Portfolio Optimization]() |
 
-**Time Series Analysis**
 
-- [Stock Assets Prediction]()
-- [Stocks Portfolio Optimization]()
-- [Production Prediction & Forecasting]()
 
-**Involving Power BI Dashboards**
+| **Involving Power BI Dashboards** | **Process Optimization Projects** | **Productivity Scripts** |
+|---    |---    |---    |
+|   - [Inventory Management System]() | - [Inventory Management System]() | - [SQL-Execution-Scripts]() 
+|- [Service Requests Dashboard]() |  - [Employee Credentials Management System]() | - [Excel-VBA-Scripts]() 
+|- [Supplier Quality Analysis]() 
 
-- [Inventory Management System]()
-- [Service Requests Dashboard]()
-- [Supplier Quality Analysis]() 
-
-**Process Optimization Projects**
-- [Inventory Management System]()
-- [Employee Credentials Management System]()
-
-**Productivity Scripts**
-- [SQL-Execution-Scripts]()
-- [Excel-VBA-Scripts]()
 
 
 <h1>Connect with me</h1>
