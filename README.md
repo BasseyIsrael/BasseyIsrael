@@ -14,7 +14,6 @@ Please, use this section to assist yourself with navigation.
 - 📫 You can reach me on **israelbssy@gmail.com** or **israelbassey@hotmail.com**
 - 👨‍💻 You can learn a lot about me on **[My Website](https://basseyisrael.github.io)** or **[My Resume]()**
 
-[Israel](#)
 
 The projects in this Github profile are segmented into the following sections:
 
@@ -39,7 +38,7 @@ The projects in this Github profile are segmented into the following sections:
 <h1>Connect with me</h1>
 
 [<img src="https://img.shields.io/badge/israel%20bassey-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/israel--bassey/)
-[<img src = "https://img.shields.io/badge/Data%20nerd-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakarshteja)
+[<img src = "https://img.shields.io/badge/Data%20nerd-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/A_DataNerd)
 
 <!--
 ![Type of ML](https://img.shields.io/badge/ML%20TYPE-MULTIVARIATE%20REGRESSION-red?style=for-the-badge)
