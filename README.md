@@ -17,7 +17,7 @@ Please, use this section to assist yourself with navigation.
 
 The projects in this Github profile are segmented into the following sections:
 
-| **Predictive Analytics Projects (Regression & Opitimization)** | **Time Series Analysis** | **Advanced Excel** |
+| **Predictive Analytics Projects (Regression & Opitimization)** | **Time Series Analysis** | **Advanced Microsoft Excel** |
 |------         | -------       | ------ |
 | - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction)| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction) | - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) |
 | - [Gas Hydrates Risk Management System](https://github.com/BasseyIsrael/Gas-Hydrates-Risk-Management-System) | - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization) | - [Excel-VBA-Scripts](https://github.com/BasseyIsrael/Excel-VBA-Scripts)
