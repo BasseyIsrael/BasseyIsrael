@@ -12,18 +12,18 @@ Please, use this section to assist yourself with navigation.
 - 🔭 I’m currently working on **Automated Data Streaming from Shared Excel Workbook to Power BI**
 - 👯 I’m looking to collaborate on **Data-Driven Projects**
 - 📫 You can reach me on **israelbssy@gmail.com** or **israelbassey@hotmail.com**
-- 👨‍💻 You can learn a lot about me on [My Website](https://basseyisrael.github.io) or [My Resume]()
+- 👨‍💻 You can learn a lot about me on **[My Website](https://basseyisrael.github.io)** or **[My Resume]()**
 
 [Israel](#)
 
 The projects in this Github profile are segmented into the following sections:
 
-| **Predictive Analytics Projects (Regression & Opitimization)** | **Time Series Analysis** |
-|------         | -------       |
-| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction)| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction)
-| - [Gas Hydrates Risk Management System](https://github.com/BasseyIsrael/Gas-Hydrates-Risk-Management-System) | - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization)
-| - [Choke Performance Analysis](#) | - [Production Prediction & Forecasting](#)
-|- [Dynamic Statistical Modelling of Production Systems](https://github.com/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems) |
+| **Predictive Analytics Projects (Regression & Opitimization)** | **Time Series Analysis** | **Advanced Excel** |
+|------         | -------       | ------ |
+| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction)| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction) | - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) |
+| - [Gas Hydrates Risk Management System](https://github.com/BasseyIsrael/Gas-Hydrates-Risk-Management-System) | - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization) | - [Excel-VBA-Scripts](https://github.com/BasseyIsrael/Excel-VBA-Scripts)
+| - [Choke Performance Analysis](#) | - [Production Prediction & Forecasting](#) | - [Employee Credentials Management System](https://github.com/BasseyIsrael/Employee-Credential-Management-System)
+|- [Dynamic Statistical Modelling of Production Systems](https://github.com/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems) | | - [Dynamic Statistical Modelling of Production Systems](https://github.com/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems) |
 | - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization) |
 
 
