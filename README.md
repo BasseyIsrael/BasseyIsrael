@@ -28,10 +28,10 @@ The projects in this Github profile are segmented into the following sections:
 
 
 | **Involving Power BI Dashboards** | **Process Optimization Projects** | **Productivity Scripts** |
-|---    |---    |---    |
-|   - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [SQL-Execution-Scripts](https://github.com/BasseyIsrael/SQL-Execution-Scripts) 
-|- [Service Requests Dashboard](https://github.com/BasseyIsrael/Service-Requests-Dashboard) |  - [Employee Credentials Management System](https://github.com/BasseyIsrael/Employee-Credential-Management-System) | - [Excel-VBA-Scripts](https://github.com/BasseyIsrael/Excel-VBA-Scripts) 
-|- [Supplier Quality Analysis](https://github.com/BasseyIsrael/Supplier-Quality-Analysis) 
+|------          |------          |------       |
+| - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [SQL-Execution-Scripts](https://github.com/BasseyIsrael/SQL-Execution-Scripts) 
+| - [Service Requests Dashboard](https://github.com/BasseyIsrael/Service-Requests-Dashboard) |  - [Employee Credentials Management System](https://github.com/BasseyIsrael/Employee-Credential-Management-System) | - [Excel-VBA-Scripts](https://github.com/BasseyIsrael/Excel-VBA-Scripts) 
+| - [Supplier Quality Analysis](https://github.com/BasseyIsrael/Supplier-Quality-Analysis) 
 
 
 
