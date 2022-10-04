@@ -9,10 +9,10 @@ Welcome to my Github Page. I am a data analyst with a degree in Petroleum Engine
 
 Please, use this section to assist yourself with navigation.
 
-- 🔭 I’m currently working on **End-to-End HR Analytics System for Employee Credential Management in Service Providing Organizations(https://github.com/BasseyIsrael/Employee-Credential-Management-System)**
-- 👯 I’m looking to collaborate on **Data-Driven Projects**
-- 📫 You can reach me on **israelbssy@gmail.com** or **israelbassey@hotmail.com**
-- 👨‍💻 You can learn a lot about me on **[My Website](https://basseyisrael.github.io)** or **[My Resume]()**
+- 🔭 I’m currently working on **[End-to-End HR Analytics System for Employee Credential Management in Service Providing Organizations](https://github.com/BasseyIsrael/Employee-Credential-Management-System)**
+- 👯 Connect with me to collaborate on **Data-Driven Projects**
+- 📫 I'm easily reachable on **israelbssy@gmail.com** or **israelbassey@hotmail.com**
+- 👨‍💻 Want to know more about me? Visit **[My Website](https://basseyisrael.github.io)** or **[My Resume]()**
 
 
 The projects in this Github profile are segmented into the following sections:
